@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Recipe Site</title>
+</head>
+<body>
+    <h1>Welcome to My Recipe Site</h1>
+    <p>Select a category:</p>
+
+    <ul>
+        <li><a href="breakfast.html">Breakfast</a></li>
+        <li><a href="lunch.html">Lunch</a></li>
+        <li><a href="dinner.html">Dinner</a></li>
+    </ul>
+</body>
+</html>
