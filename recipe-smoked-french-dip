@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smoked French Dip</title>
+
+<style>
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.time {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #555;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+ul, ol {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+.back {
+  margin-top: 40px;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+
+.back:hover {
+  text-decoration: underline;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Smoked French Dip</h1>
+<div class="time">Estimated Time to Completion: 5–6 hours</div>
+
+<h2>Equipment</h2>
+<ul>
+<li>Smoker (pellet smoker recommended)</li>
+<li>Meat thermometer</li>
+<li>Foil pan or small roasting pan</li>
+<li>Aluminum foil</li>
+<li>Tongs</li>
+</ul>
+
+<h2>Ingredients</h2>
+<ul>
+<li>3–4 lb chuck roast</li>
+<li>1 tbsp olive oil</li>
+<li>Salt</li>
+<li>Black pepper</li>
+<li>1 tsp garlic powder</li>
+<li>1 tsp onion powder</li>
+</ul>
+
+<h2>Au Jus / Braising Liquid</h2>
+<ul>
+<li>2 cups beef broth</li>
+<li>1 tbsp Worcestershire sauce</li>
+<li>3 cloves garlic, smashed</li>
+<li>1 tsp onion powder</li>
+<li>½ tsp black pepper</li>
+</ul>
+
+<h2>For Serving</h2>
+<ul>
+<li>Hoagie rolls or French rolls</li>
+<li>Provolone cheese (optional)</li>
+</ul>
+
+<h2>How To</h2>
+<ol>
+<li>Preheat smoker: Set smoker to 250°F.</li>
+<li>Season the beef: Rub chuck roast with olive oil. Season with salt, pepper, garlic powder, and onion powder.</li>
+<li>Smoke: Place roast directly on smoker grate and smoke about 3 hours until internal temp reaches 160–165°F.</li>
+<li>Braise: Place roast in a foil pan. Add beef broth, Worcestershire, garlic, onion powder, and pepper. Cover tightly with foil.</li>
+<li>Return to smoker and cook another 2–3 hours until internal temperature reaches 200–205°F and beef is tender.</li>
+<li>Rest: Let rest 15–20 minutes.</li>
+<li>Slice or shred the beef.</li>
+<li>Serve: Pile beef onto rolls, add provolone if desired, and serve with the au jus from the pan for dipping.</li>
+</ol>
+
+<a class="back" href="dinner-beef.html">← Back to Beef</a>
+
+</body>
+</html>
